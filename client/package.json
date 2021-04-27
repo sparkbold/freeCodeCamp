@@ -30,7 +30,7 @@
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "final-form": "^4.19.1",
-    "gatsby": "^2.21.21",
+    "gatsby": "^3.0.0",
     "gatsby-cli": "^2.12.15",
     "gatsby-link": "^2.4.2",
     "gatsby-plugin-advanced-sitemap": "^1.5.4",
@@ -72,11 +72,11 @@
     "redux-saga": "^1.1.1",
     "reselect": "^3.0.1",
     "rxjs": "^6.5.5",
-    "sanitize-html": "^1.23.0",
+    "sanitize-html": "^2.0.0",
     "sass.js": "^0.11.0",
     "store": "^2.0.12",
     "typescript": "^3.8.3",
-    "validator": "^10.11.0"
+    "validator": "^13.6.0"
   },
   "keywords": [
     "gatsby"
